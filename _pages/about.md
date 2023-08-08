@@ -10,7 +10,10 @@ redirect_from:
 
 Welcome to my page! 
 <br>
-I'm an incoming Master's student in Machine Learning at Carnegie Mellon University. Prior to this, I completed my Bachelors in Electrical Engineering from IIT Madras in 2023. My research interests lie in the fields of Causal Inference, Recommender Systems and NLP but I've also dabbled in Robotics and autonomous navigation as a part of Anveshak, the Mars Rover Design Team at IIT Madras. I previously interned at Adobe Research and at Aalto University foucsing on generating counterfactual explanations for multimodal recommender systems in the former and on developing deep learning models for Extreme Multilabel Classification in the latter. My Bachelor's thesis  under Prof. Mitesh Khapra tackles the task of generating diverse natural language counterfactuals for over 11 different Indic Languages. 
+I'm an incoming Master's student in Machine Learning at Carnegie Mellon University. Prior to this, I completed my Bachelors in Electrical Engineering from IIT Madras in 2023. My research interests lie in the fields of Causal Inference, Recommender Systems and NLP but I've also dabbled in Robotics and autonomous navigation as a part of Anveshak, the Mars Rover Design Team at IIT Madras. 
+
+<br>
+I previously interned at Adobe Research and at Aalto University where I worked on generating counterfactual explanations for multimodal recommender systems in the former and on developing deep learning models for Extreme Multilabel Classification in the latter. My Bachelor's thesis  under Prof. Mitesh Khapra tackles the task of generating diverse natural language counterfactuals for over 11 different Indic Languages. 
 <br>
 You can find my talk on "Counterfactual Explanations for Visual Recommendation Systems" at WSDM 2023 [here](https://www.youtube.com/watch?v=IN4a_rDLrtk)
 <br>
