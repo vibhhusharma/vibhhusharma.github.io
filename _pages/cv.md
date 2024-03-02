@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click [<span style="color:blue">here</span>](https://github.com/vibhhusharma/vibhhusharma.github.io/blob/master/files/CMU_Resume.pdf) to view my up-to-date CV
+Click [<span style="color:blue">here</span>](https://github.com/vibhhusharma/vibhhusharma.github.io/blob/master/files/Vibhhu_Resume_1.pdf) to view my up-to-date CV
