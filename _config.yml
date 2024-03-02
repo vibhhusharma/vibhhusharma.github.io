@@ -83,11 +83,11 @@ author:
   name             : ""
   avatar           : "profile_pic.jpg"
   bio              : "Student"
-  location         : "Pune. India"
+  location         : "Pittsburgh, PA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
-  email            :  "ee19b128@smail.iitm.ac.in"
+  email            :  "vibhhus@cs.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "vibhhu-sharma-213170197"
+  linkedin         : "vibhhu-sharma"
   orcid            : 
   pinterest        :
   soundcloud       :
