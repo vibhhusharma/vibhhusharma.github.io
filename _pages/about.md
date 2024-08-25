@@ -11,7 +11,7 @@ redirect_from:
 Welcome to my page! 
 <br>
 
-I'm a Master's student in Machine Learning at Carnegie Mellon University, where I am working with [Prof. Bryan Wilder](https://bryanwilder.github.io/). Prior to this, I completed my Bachelors in Electrical Engineering from IIT Madras in 2023. My research interests lie in the fields of **Causal Inference, Recommender Systems and NLP** but I've also dabbled in Robotics and autonomous navigation as a part of Anveshak, the Mars Rover Design Team at IIT Madras.
+I'm a Master's student in Machine Learning at Carnegie Mellon University, where I am working with [Prof. Bryan Wilder](https://bryanwilder.github.io/). Prior to this, I completed my Bachelors in Electrical Engineering from IIT Madras in 2023. My research interests lie in the fields of **Causal Inference and Recommender Systems** but I've also dabbled in Robotics and autonomous navigation as a part of Anveshak, the Mars Rover Design Team at IIT Madras.
 <br>
 
 I've been fortunate enough to complete some extrremely rewarding internships at Instacart, where I worked on improving the covergae of the sequence recommendation model, and Adobe Research, where I developed a model to counterfactually explain the recommendations provided by a multimodal recommender system. More details about that work [here](https://dl.acm.org/doi/10.1145/3589335.3651484)!
