@@ -11,10 +11,12 @@ redirect_from:
 Welcome to my page! 
 <br>
 
-I'm a Master's student in Machine Learning at Carnegie Mellon University. Prior to this, I completed my Bachelors in Electrical Engineering from IIT Madras in 2023. My research interests lie in the fields of **Causal Inference, Recommender Systems and NLP** but I've also dabbled in Robotics and autonomous navigation as a part of Anveshak, the Mars Rover Design Team at IIT Madras. I am currently working on auditing recommender systems from an interventional perspective under Prof. Zachary Lipton at the ACMI Lab at CMU.
+I'm a Master's student in Machine Learning at Carnegie Mellon University, where I am working with [Prof. Bryan Wilder](https://bryanwilder.github.io/). Prior to this, I completed my Bachelors in Electrical Engineering from IIT Madras in 2023. My research interests lie in the fields of **Causal Inference, Recommender Systems and NLP** but I've also dabbled in Robotics and autonomous navigation as a part of Anveshak, the Mars Rover Design Team at IIT Madras.
 <br>
 
-I previously interned at Adobe Research and at Aalto University where I worked on generating counterfactual explanations for multimodal recommender systems in the former and on developing deep learning models for Extreme Multilabel Classification in the latter. My Bachelor's thesis under Prof. Mitesh Khapra tackled the task of generating diverse natural language counterfactuals for over 11 different Indic Languages. You can find my talk on **"Counterfactual Explanations for Visual Recommender Systems"** at WSDM 2023 [here](https://www.youtube.com/watch?v=IN4a_rDLrtk).
+I've been fortunate enough to complete some extrremely rewarding internships at Instacart, where I worked on improving the covergae of the sequence recommendation model, and Adobe Research, where I developed a model to counterfactually explain the recommendations provided by a multimodal recommender system. More details about that work [here](https://dl.acm.org/doi/10.1145/3589335.3651484)!
+
+I worked with [Prof. Leqi Liu](https://leqiliu.github.io/) and [Prof. Zachary Lipton](https://www.zacharylipton.com/) at CMU to develop a unified causal framework for auditing recommender systems: viewing recommender system auditing from a causal lens and provide a general recipe for defining auditing metrics. While at IIT Madras, I worked under Prof. Mitesh Khapra and tackled the task of generating diverse natural language counterfactuals for over 11 different Indic Languages. I also interned with [Prof. Rohit Babbar](https://sites.google.com/site/rohitbabbar/Home) at Aalto University and worked on developing deep learning models for Extreme Multilabel Classification.
 <br>
 
 Apart from academics, I'm a passionate basketball fan and spend a large chunk of my free time watching games. **#RipCity**
