@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click [<span style="color:blue">here</span>](https://github.com/vibhhusharma/vibhhusharma.github.io/blob/master/files/vibhhu_cv.pdf) to view my up-to-date CV
+<embed src="../files/vibhhu_cv.pdf" type="application/pdf" width="100%" height="800px" />
