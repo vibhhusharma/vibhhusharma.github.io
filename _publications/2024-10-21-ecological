@@ -1,7 +1,7 @@
 ---
 title: "Accounting for Missing Covariates in Heterogeneous Treatment Estimation"
 collection: publications
-excerpt: 'A novel statistical methodology to estimate heterogeneous treatment effects when generalizing from study populations to target populations with previously unobserved covariates <br>
+excerpt: 'A novel statistical methodology to estimate heterogeneous treatment effects when generalizing from study populations to target populations with previously unobserved covariates. <br>
 Khurram Yamin, <b>Vibhhu Sharma</b>, Ed Kennedy, Bryan Wilder <br>
 Under Review <a href="https://arxiv.org/pdf/2410.15655">[Preprint]</a>'
 date: 2024-10-21
