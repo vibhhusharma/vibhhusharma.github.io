@@ -1,7 +1,7 @@
 ---
 title: "A Unified Causal Framework for Auditing Recommender Systems for Ethical Concerns"
 collection: publications
-excerpt: 'Introducing a unified framework for auditing recommender systems from a causal lens and providing a general recipe for defining auditing metrics <br>
+excerpt: 'Introducing a unified framework for auditing recommender systems from a causal lens and providing a general recipe for defining auditing metrics. <br>
 <b>Vibhhu Sharma*</b>, Shantanu Gupta, Nil-Jana Akpinar, Zachary Lipton, Liu Leqi <br>
 Presented at the FAccTRec Workshop at RecSys 2024 <a href="https://arxiv.org/pdf/2409.13210">[Preprint]</a>'
 date: 2024-09-20
