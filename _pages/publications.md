@@ -5,8 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Denotes first-authorship.
+
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my papers on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
