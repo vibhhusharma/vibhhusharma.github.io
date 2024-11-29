@@ -4,11 +4,10 @@ collection: publications
 permalink: /publication/2024-09-20-causalframework
 excerpt: 'Introducing a unified framework for auditing recommender systems from a causal lens and providing a general recipe for defining auditing metrics'
 date: 2024-09-20
-paperurl: 'https://dl.acm.org/doi/10.1145/3589335.3651484'
 header:
   teaser: "unified-teaser.png"
 ---
 
-<b>Vibhhu Sharma</b>, Shantanu Gupta, Nil-Jana Akpinar, Zachary Lipton, Liu Leqi
+**Vibhhu Sharma**, Shantanu Gupta, Nil-Jana Akpinar, Zachary Lipton, Liu Leqi
 Presented at the FAccTRec Workshop at RecSys 2024
 [Preprint](https://arxiv.org/pdf/2409.13210)
