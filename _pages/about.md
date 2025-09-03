@@ -20,4 +20,4 @@ Previously, I've spent some very rewarding time working with wonderful people at
 Apart from academics, I'm a passionate basketball fan and spend a large chunk of my free time watching games. **#RipCity**
 <br>
 
-I also write on occasion: you can find some of my recent ramblings [here](https://www.t5eiitm.org/author/vibhhu-sharma/) and some of my older work [here](https://medium.com/@vibhhusharma2012). I was the Executive Editor at The Fifth Estate, the official campus news body of IIT Madras, where I oversaw a team of 48 people and the daily roll out of content.
+Blog (soon): https://whycontrol.substack.com/
