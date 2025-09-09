@@ -19,3 +19,5 @@ Previously, I've spent some very rewarding time working with wonderful people at
 
 Apart from academics, I'm a passionate basketball fan and spend a large chunk of my free time watching games. **#RipCity**
 <br>
+
+Read my blog [here](https://whycontrol.substack.com/).
