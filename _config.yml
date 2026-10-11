@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "profile_pic.jpg"
+  avatar           : "100_0109.jpg"
   bio              : "Student"
-  location         : "Pittsburgh, PA"
+  location         : "Ithaca, NY"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=QyKMVQUAAAAJ"
-  email            :  "vibhhus@cs.cmu.edu"
+  email            :  "vs552@cornell.edi"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
